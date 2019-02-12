@@ -1,0 +1,120 @@
+Ehren Katzur's original score
+
+When I first started Computer Science
+at Algonquin College of Applied Arts and Technology
+I had no idea how to
+Write in C
+
+I took a course named Compilers
+Right after semester 3
+where I would learn how to
+Write in C
+
+First project was the Buffer
+"You can't have memory leaks!"
+and if you find you do
+You use Free();
+
+Before I handed the buffer in
+I tested it thoroughly
+I was learning how to
+Write in C
+
+Second part was the scanner
+Its job was finding Lexemes
+It turned them into tokens
+on the stream
+
+DFAs and Keywords,
+Tokens and State Machines
+First half of the scanner, I did
+Write in C
+
+Next we had the symbol table
+Which was declared globally
+More thought than code on this one
+Thankfully
+
+There is always one more bug
+"5,1,1, will crash perfectly"
+To solve the problem I had to
+Write in C
+
+Finally was the parser
+To build the syntax tree
+Curse this silly grammar
+It hates me
+
+The First Set was not fun to build
+No Follow Set, I'm relieved
+How will I ever turn this,
+into C?
+
+"Void Production Name (void)
+is really all you need."
+Now we all can go, and
+Write in C
+
+"Before you submit this one
+It must work flawlessly
+Or you'll spend your summer indoors
+Writing C"
+
+Now I'm done compilers
+The marks came easily
+Because all semester long, I
+wrote in C
+
+Write in C, Write in C,
+Write in C, oh, Write in C,
+Now I just love to
+Write in C.
+
+Michael Jackson's original score
+
+I walked into battle, armed with C;
+A glorious victory I did guarantee;
+But slaying the dragon was not meant to be;
+A platypus discovered the memory leaks in me!
+
+Mixed measurement, dangling pointers, overflow;
+Memory leak, infinite recursion, many stacks I did blow;
+Invalid range, spec violation;
+Why is my compiler in such a situation?
+
+Please parse well, or I'm a big giant liar;
+To pass this course, is my one desire;
+Why is that platypus, giving me a wink?
+He says that I too will soon be extinct!
+
+Creating tokens, by spotting lexemes;
+Everything's a little more complex, then it first seems;
+With all these functions, it will surely be late;
+No problem: simply do the bonus, it will compensate.
+
+So much garbage, printed on my display;
+Arrays of characters, teach me the character of arrays;
+Learn the language, at a fast pace;
+Write the code well, and get a smiley face;
+
+Don't forget the errors, in the grammar;
+With so many productions, upon which to stammer;
+Write the definition, and the declaration;
+Define your constants, try enumeration.
+
+Create the sets well, First then Follow;
+Write the parser in chunks, it's easier to swallow;
+Follow the terminals, in advancing the look-a-head;
+Prepare to spend many a night, away from your bed.
+
+When nothing works, and you can't match the test files;
+Take a break, write beautiful Java, and think awhile;
+With so much time spent, on a single token,
+Why are you telling me, my finite state machine is broken?
+
+Added by Seguin-Kilmartin, Taylor
+
+When Svillens on your case,
+compilers is the place,
+a trained master of C,
+makes java lovers flee. so to be successful, write in C. :)
